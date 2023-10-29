@@ -8,8 +8,6 @@
 
 Skills:
 
-Languages: Java, SQL
-
-Automation testing: Selenium WebDriver
-
-API: Postman, SoapUI, RestAssured
+- Languages: Java, SQL
+- Automation testing: Selenium WebDriver
+- API: Postman, SoapUI, RestAssured
